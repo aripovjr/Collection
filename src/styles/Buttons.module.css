@@ -1,0 +1,12 @@
+.buttonContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 150px;
+}
+
+.NavbarText {
+  color: #111;
+  cursor: pointer;
+  text-decoration: none;
+}
